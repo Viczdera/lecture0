@@ -1,4 +1,32 @@
  h1 {color:#FF6347;
+   font font-family: Helvetica, sans-serif;
+   font-style: normal;
+   font-size: 30px;
+   font-weight: bold;
     text-align: center;
   }
-  
+  h2 { color:#971F15;
+
+    text-align:left center;
+  }
+  div{
+    background-color: #39BD91;
+    height: 100px;
+  }
+ #middle{
+    background-color: #659D8D;
+    height: 50px;
+  }
+  table{
+    border: 5px solid black;
+    border-collapse: collapse;
+    width: 50%;
+    }
+    th,td{
+      border: 1px solid teal;
+      padding: 5px;
+      text-align: center;
+    }
+    th{
+      background-color: #659D8D;
+    }
